@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Remera Outside",
+        "price": 14000,
+        "category": "clasicas",
+        "description": "Remera estilo clasica, 100% algodon, color marron.",
+        "imageUrl": "/images/Outsideclasic.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Remera Orange",
+        "price": 16000,
+        "category": "oversize",
+        "description": "Remera estilo overize, 100% algodon, color blanca.",
+        "imageUrl": "/images/OversizeOrange.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Remera Chrome",
+        "price": 14000,
+        "category": "clasicas",
+        "description": "Remera estilo clasica, 100% algodon, color azul marino.",
+        "imageUrl": "/images/ChromeClasic.jpg"
+    }
+
+]
